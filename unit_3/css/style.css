@@ -21,9 +21,17 @@ h1 {
 	text-align: center;
 }
 
-p, li {
+p {
+	background-color: rgba(250,235,250,0.5);
  	font-weight: 800;
+
 }
 
+
+li {
+	font-weight: 800;
+	background-color: rgba(250,235,250,0.5);
+	list-style-type: none
+}
 
 
