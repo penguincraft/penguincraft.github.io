@@ -1,0 +1,29 @@
+body {
+	background: url(../images/bokeh.jpg);
+	background-size: cover;
+
+}
+
+h1 {
+	font-size: 64px;
+	color:#ffddff;
+	font-family: Helvetica, sans-serif;
+
+}
+
+
+#slogan {
+	font-size: 36px;
+	font-style: italic;
+	background-color:#eeccee;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p, li {
+ 	font-weight: 800;
+}
+
+
+
